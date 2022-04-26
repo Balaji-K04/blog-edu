@@ -1,2 +1,2 @@
 # Blog-Edu
-It is repository is for educational purpose only
+It is blog page created with html, js and css
